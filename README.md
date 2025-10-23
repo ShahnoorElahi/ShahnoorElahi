@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Shahnoor Elahi
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently working as Front End Developer
+- 👋 Assalamualaikum, I’m Shahnoor Elahi
+- 👀 I’m a in Full Stack Development
 - 📫 You can reach me by LinkedIn, link is given below
