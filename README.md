@@ -1,3 +1,3 @@
-- 👋 Assalamualaikum, I’m Shahnoor Elahi
-- 👀 I’m a in Full Stack Development
-- 📫 You can reach me by LinkedIn, link is given below
+- 👋 Assalamualaikum, I’m Shahnoor Elahi.
+- 👀 I’m a Full Stack Developer.
+- 📫 You can reach me by LinkedIn, link is given below.
